@@ -1,0 +1,24 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+:root{
+  --myColor: #503e9d;
+}
+body{
+  background-color: var(--myColor);
+}
+.border{
+  border: 2px solid red;
+}
+
+
+.outlet{
+    margin: 18px 18px 18px 0px;
+    background-color: #fff;
+    border-radius: 50px;
+    padding: 50px;
+    overflow: hidden;
+}
